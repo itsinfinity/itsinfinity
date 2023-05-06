@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/anshu--goyal/"><img src="https://img.shields.io/badge/-Gift%20AnshuGoyal%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/anshu--goyal" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/anshu--goyal/"><img src="https://img.shields.io/badge/-%20AnshuGoyal%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/anshu--goyal" alt="LinkedIn Badge"></a> 
        
 
  <!-- Conecct section: END -->
@@ -55,13 +55,13 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsinfinity21&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsinfinity&show_icons=true" />
 </details>
 <details>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/itsinfinity/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsinfinity&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/itsinfinity/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsinfinity&custom_title=infinty's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
