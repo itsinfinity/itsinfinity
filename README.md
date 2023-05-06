@@ -37,7 +37,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/anshu--goyal/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/anshu--goyal/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/anshu--goyal" alt="LinkedIn Badge"></a> 
        
 
  <!-- Conecct section: END -->
